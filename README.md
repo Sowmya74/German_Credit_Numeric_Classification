@@ -1,0 +1,2 @@
+# German_Credit_Numeric_Classification
+Project Aims to Classify Creditworthiness
